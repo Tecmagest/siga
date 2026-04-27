@@ -14,9 +14,6 @@ The platform integrates:
 - Multi-tenant institutional configuration
 - Modern web interface (SPA + PWA)
 
-👉 Backend architecture: :contentReference[oaicite:4]{index=4}  
-👉 Frontend architecture: :contentReference[oaicite:5]{index=5}  
-
 ---
 
 ## 🧠 Integrated System Concept
@@ -43,8 +40,6 @@ Unlike fragmented systems, SIGA was designed as a unified platform where:
 - Static SPA (no Node.js in production)
 - PWA with offline support
 - Feature-based structure (aligned with API)
-
-👉 Details: :contentReference[oaicite:6]{index=6}  
 
 ---
 
@@ -111,8 +106,6 @@ Unlike fragmented systems, SIGA was designed as a unified platform where:
 - 233 HTTP endpoints
 - 1200+ automated tests
 - 60 domain entities
-
-👉 Source: :contentReference[oaicite:7]{index=7}  
 
 ---
 
