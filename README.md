@@ -1,8 +1,9 @@
-# SIGA — Integrated Academic Management System | SUGEST - Unified Management and Education System
+# SIGA - **Integrated Academic Management System**, now SUGEST - **Unified Management and Education System**.
+A modern education management platform developed by a contributor to the early digital transformation of the education sector in Angola.
 
 ## 📌 Overview
 
-SIGA (SUGEST) is an **Integrated Academic Management System** platform designed to centralize and automate educational operations across single or multiple institutions.
+“SIGA (SUGEST) is a multi-tenant platform designed to centralize and automate academic operations across single or multiple institutions.”
 
 The platform integrates:
 
